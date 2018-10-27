@@ -1,6 +1,6 @@
 token=NDc0NjE1NTkyODA0OTQxODY4.DnbjWA.pcnpvN8PLe3nb6px0nZHAfEdadQ
 owner=465649311871533066
-prefix=.s
-game= Type .splay
+prefix=s
+game=
 stayinchannel=true
-songinstatus=true
+songinstatus=false
