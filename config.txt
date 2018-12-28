@@ -1,6 +1,6 @@
-token=NDc0NjE1NTkyODA0OTQxODY4.DnbjWA.pcnpvN8PLe3nb6px0nZHAfEdadQ
+token=NTI4MDAyMTU0ODU0NzQ0MDY0.Dwb77A.bhWHgVy2uvzMnJdBkZNNy13SKIg
 owner=465649311871533066
-prefix=s
+prefix=sa
 game=
 stayinchannel=true
 songinstatus=false
